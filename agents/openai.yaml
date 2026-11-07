@@ -1,0 +1,4 @@
+interface:
+  display_name: "Setup Version Policy"
+  short_description: "Set up a VERSION source and bump policy"
+
